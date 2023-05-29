@@ -1,0 +1,18 @@
+-------------------------
+ProgPoEPart2 readme
+-------------------------
+This project requires Visual Studio 2019, It is a database web application
+that farmers can store their products for the employees to see.
+
+To test the application, please use these as the username and password
+for farmer and employee
+Test Information-
+Employee username: Test
+Employee Password: Test123
+
+Farmer username: Nazier Abd
+Farmer Password: Nazier123
+
+notes: When viewing the database, the Farmer Name will appear in the Farmer ID
+textbox, you have to manually delete that and insert the farmerID, for the test farmer,
+the ID is 4
